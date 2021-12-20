@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "219154312948",
+    "firebase_url": "https://cryptosorter.firebaseio.com",
+    "project_id": "cryptosorter",
+    "storage_bucket": "cryptosorter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219154312948:android:6279032c61ea1c20",
+        "android_client_info": {
+          "package_name": "com.cryptosorter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219154312948-uar5g77le6hid6fvc0f8lmha7mkmrd0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPzXuggjOn56j08L5SowrvKT9hFkSgpes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
